@@ -26,7 +26,7 @@ To run the Simon game locally, you will need:
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simon-game.git
+   git clone https://github.com/seth-wood/simon-game.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -73,7 +73,7 @@ simon-game/
 5. If you make a mistake, the game will show "Game Over" and prompt you to restart by pressing any key.
 
 ## Contributors
-- [Your Name](https://github.com/seth-wood)
+- [Seth Wood](https://github.com/seth-wood)
 
 ## License
 This project is licensed under the MIT License.
