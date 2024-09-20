@@ -73,7 +73,7 @@ simon-game/
 5. If you make a mistake, the game will show "Game Over" and prompt you to restart by pressing any key.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/seth-wood)
 
 ## License
 This project is licensed under the MIT License.
